@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{background-color:light-gray; 
+
+
+
+}
+
+ul,.photo{
+	display:inline-block;
+}
+
+li{
+	display: inline-block;
+	width: 32px;
+height: 13px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 15px;
+font-weight: 700;
+line-height: 12.89px;
+text-align: left;
+margin-right:20px;
+margin-left: 20px;
+
+}
+.photo{
+	width: 32px;
+height: 32px;
+margin-left: 20px;
+vertical-align: middle;
+}
+p{
+	width: 120px;
+height: 28px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.13px;
+text-align: left;
+margin-left: 60px;
+
+
+}
+
+p1{
+		width: 120px;
+height: 28px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.13px;
+text-align: left;
+margin-left: 85px;
+margin-bottom: 30px;
+}
+
+.content,.content1, .content2{
+	display: inline-block;
+}
+
+.content {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	border: 3px white;
+	margin-left: 60px;
+}
+
+.content .bg-img {
+	width: 100%;
+
+}
+
+.content h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.content div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+.content span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+}
+
+
+.content1 {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	border: 3px white;
+	margin-left: 60px;
+}
+
+.content1 .bg-img {
+	width: 100%;
+
+}
+
+.content1 h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.content1 div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content1 p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content1 .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+.content1 span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+}
+.content2 {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	border: 3px white;
+	margin-left: 60px;
+}
+
+.content2 .bg-img {
+	width: 100%;
+
+}
+
+.content2 h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.content2 div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content2 p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content2 .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+.content2 span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+
+}
+
+
+.mtavari{
+	display: flex;
+	height: 1000px;
+}
+.maindiv{
+	height: 700px;
+	width: 50%;
+	
+}
+.pic1{
+	width: 100%;
+
+	
+	
+}
+.pic2{
+	margin-top: 30px;
+	
+}
+
+.rightdiv{
+	width: 30%;
+	height: 500px;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.fotoerti{
+	width: 100%;
+	display: inline-block;
+}
+
+
+
+
+h2{
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: black;
+}
+nav {
+	height: 60px;
+	border: 2px solid black;
+	background-color: #243043;
+	padding: 10px;
+	margin-top: 30px;
+	margin-bottom: 200px;
+	position: sticky;
+	top: 5px;
+	display: block;}
+
+nav.class li{
+	font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 12px;
+font-weight: 700;
+line-height: 14.06px;
+text-align: left;
+width: 33px;
+height: 14px;
+color: #818687;
+
+
+}
